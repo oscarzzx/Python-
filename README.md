@@ -10,5 +10,5 @@
 ## 3.Python初体验
 * print函数：print()用来打印输出
 ```python
-print()
+print(hello world)
 ```
