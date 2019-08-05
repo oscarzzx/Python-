@@ -7,3 +7,8 @@
 * PyPy：可以显著提高Python代码的执行速度
 * Jython：运行在Java平台上的解释器，可以直接把Python代码编译成Java字节码执行
 * IronPython：运行在微软.Net平台上，可以直接把Python代码编译成.Net的字节码
+## 3.Python初体验
+* print函数：print()用来打印输出
+```python
+print()
+```
